@@ -24,6 +24,9 @@ Links - https://dharsanbe.wixstudio.io/cybill
 
 # Repository Structure
 /resources: Supplementary materials including slides, articles, and additional resources.
+
 /projects: Project files, documentation, and deliverables related to the UI/UX design project.
+
 /scripts: Code snippets or scripts used for integrating ChatGPT functionality into the design process.
+
 Feel free to explore the repository and leverage the insights and materials provided to enhance your understanding and application of UI/UX design principles in conjunction with ChatGPT.
