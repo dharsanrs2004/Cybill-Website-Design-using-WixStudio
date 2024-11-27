@@ -1,4 +1,4 @@
-# Website-UIUX-Designing-using-ChatGPT
+# Website-UIUX-Designing-using-WixStudio
 
 Welcome to the repository for the Website UI/UX Designing course utilizing ChatGPT, in collaboration with Simplilearn and SkillUp. Here, you'll find resources and project materials related to the comprehensive learning experience of designing user interfaces and experiences empowered by ChatGPT.
 
