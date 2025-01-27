@@ -1,4 +1,6 @@
 # Website-UIUX-Designing-using-WixStudio
+![Wix Studio](https://img.shields.io/badge/Website_Design_using_Wix_Studio-%238F1B2F.svg?style=for-the-badge&logo=wix&logoColor=white)
+
 Welcome to the repository for the Website UI/UX Designing course using Wix Studio! This repository offers resources and project materials for mastering website design with a focus on user interfaces (UI) and user experiences (UX). Dive into hands-on learning to create visually appealing, responsive, and user-friendly websites with the power of Wix Studio.
 
 # Project Links 
